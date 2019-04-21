@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BesfFood</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- 권한 화면 -->
+    <string name="permission_checking">권한 확인중...</string>
+    <string name="permission_setting_title">권한 설정</string>
+    <string name="permission_setting_message">앱을 실행하기 위해서는 권한 설정을 해야 합니다.</string>
+    <string name="permission_setting_restart">권한을 설정하고 다시 실행해 주세요</string>
+
+    <!-- 시작 화면 -->
+    <string name="index_message">최고의 음식점\n 모두 모아\n베스트푸드</string>
+    <string name="delicious">Delicious</string>
+
+    <string name="submit">확인</string>
+    <string name="network_not_working">네트워크에 연결되어 있지 않습니다. \n 확인 후 다시 실행해 주세요.</string>
+
+
+</resources>
