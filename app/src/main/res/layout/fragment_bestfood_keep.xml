@@ -8,7 +8,7 @@
         android:id="@+id/keep_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:dividerHeight="@dimen/spcing_small" />
+        android:dividerHeight="@dimen/spacing_small" />
 
     <TextView
         android:id="@+id/no_keep"
@@ -19,7 +19,7 @@
         android:padding="@dimen/spacing_small"
         android:text="@string/no_keep"
         android:textColor="@android:color/white"
-        android:textSize="@dimen/text_size_small2"
+        android:textSize="@dimen/text_size_small"
         android:textStyle="bold"
         android:visibility="gone" />
 

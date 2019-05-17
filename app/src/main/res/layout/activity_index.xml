@@ -24,7 +24,7 @@
         android:gravity="center"
         android:text="@string/delicious"
         android:textColor="@color/text_color_white"
-        android:textSize="dimen/text_size_medium2"
+        android:textSize="@dimen/text_size_medium2"
         android:textStyle="bold"        />
 
     <TextView
@@ -45,7 +45,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layou_margin="8dp"
+        android:layout_margin="8dp"
         android:background="@drawable/button_round_red"
         android:text="@string/submit"
         android:textSize="@dimen/text_size_medium"

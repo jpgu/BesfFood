@@ -20,4 +20,8 @@
     <string name="network_not_working">네트워크에 연결되어 있지 않습니다. \n 확인 후 다시 실행해 주세요.</string>
 
 
+
+    <!-- 즐겨찾기 -->
+    <string name="no_keep">즐겨찾기에 등록된 음식점이 없습니다.</string>
+
 </resources>
