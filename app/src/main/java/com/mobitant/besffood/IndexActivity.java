@@ -146,7 +146,7 @@ public class IndexActivity extends AppCompatActivity {
         RemoteService remoteService = ServiceGenerator.createService(RemoteService.class);
 
         Call<String> call = remoteService.insertMemberPhone(phone);
-        call.enqueue(new Callback<String>) {
+        call.enqueue(new Callback<String>() {
 
             @Override
             public void onResponse(Call<String> call, Response<String> response){
@@ -168,7 +168,3 @@ public class IndexActivity extends AppCompatActivity {
     }
 }
 
-
-
-
-}
